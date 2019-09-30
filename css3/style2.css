@@ -1,0 +1,36 @@
+/* Seletor Geral */
+/* *{
+    border: 2px solid red;
+} */
+
+/* Seletor de Filhos
+li > a{
+
+}
+
+Seletor de Dependente
+li a{
+
+} */
+
+/* Seletor Adjascente (Se vier após) 
+h1 + h4{
+
+}    
+*/
+
+/* Compara a veracidade da propriedade
+a[href = 'url']{
+
+} */
+
+li:nth-of-type(6){
+    color: red;
+}
+
+div{
+    border: solid;
+}
+div ul{
+    border: inherit;
+}

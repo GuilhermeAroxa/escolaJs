@@ -1,0 +1,38 @@
+h1{
+    color: red;
+    /* border-color: white;
+    border-style: dashed;
+    border-width: 4px; */
+    text-align: center;
+    border: 4px white dashed;
+}
+
+li{
+    color: white;
+}
+
+body{
+    background-image: url(vasco.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.goalKeeper{
+    color: aqua;
+}
+
+.midfielders{
+    color: orangered;
+}
+
+.defender{
+    color: fuchsia;
+}
+
+.forward{
+    color: yellow;
+}
+
+#cap{
+    font-weight: bold;  
+}
